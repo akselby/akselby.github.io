@@ -48,7 +48,7 @@
 
 
 .journal-top {
-    background: url(../images/banner-11.jpg);
+    background: url(../images/banner-3.png);
     /*background-size: 100% auto;*/
 }
 #journal-top2 {
@@ -56,7 +56,7 @@
 /*    background-size: 100% auto;*/
 }
 #journal-top3 {
-    background: url(../images/banner-3.jpg);
+    background: url(../images/banner-3.png);
 /*    background-size: 100% auto;*/
 }
 
@@ -112,27 +112,27 @@
 .single-portfolio-title > .prod-desc::after,
 .single-portfolio-title.style-2 > h1.prod-name::after,
 .style-3-heading span::after {
-    background-color: #fff84f;
+    background-color: #57C9E8;
 }
 .slim-wrap ul.menu-items li a:hover {
-    color: #fff84f;
+    color: #57C9E8;
 }
 .jr-whole-wrap .post:hover .journal-cont,
 .jr-whole-wrap .post.sticky .journal-cont {
-    border-color: #fff84f;
+    border-color: #57C9E8;
 }
 .entry-content .single-jr-content blockquote,
 .search-form .search-submit,
 .form-wrapper .form-submit input,
 .proj-cont-wrap a.visit-brand,
 .ts-button-style-default {
-    border-left-color: #fff84f;
+    border-left-color: #57C9E8;
 }
 .search-form .search-submit,
 .form-wrapper .form-submit input,
 .proj-cont-wrap a.visit-brand,
 .ts-button-style-default {
-    border-right-color: #fff84f;
+    border-right-color: #57C9E8;
 }
 .menu > .right-wrap > .menu-items > li > a:hover,
 .author-details-wrap .art-link,
@@ -141,7 +141,7 @@
 .single-portfolio-title.style-3 > h1.prod-name,
 .ts-button-style-ghost,
 .menu .right-wrap .menu-items li a:hover {
-    border-bottom-color: #fff84f;
+    border-bottom-color: #57C9E8;
 }
 .grid > .item:hover .port-img-hover,
 .post-nav-wrap .nav-link > a.proj-hover-wrap {
@@ -452,20 +452,20 @@
 }
 
  /* Layout 231 */
-        
+
         #pg-231-0,
         #pg-231-1 {
             margin-bottom: 0px
         }
-        
+
         #pl-231 .panel-grid-cell .so-panel {
             margin-bottom: 30px
         }
-        
+
         #pl-231 .panel-grid-cell .so-panel:last-child {
             margin-bottom: 0
         }
-        
+
         @media (max-width:780px) {
             #pg-231-0 .panel-grid-cell,
             #pg-231-1 .panel-grid-cell,
@@ -515,40 +515,40 @@
 
 
 /* Layout 48 */
-        
+
         #pgc-48-0-0,
         #pgc-48-0-1 {
             width: 50%
         }
-        
+
         #pg-48-0,
         #pg-48-1,
         #pg-48-2 {
             margin-bottom: 0px
         }
-        
+
         #pg-48-0 .panel-grid-cell {
             float: left
         }
-        
+
         #pl-48 .panel-grid-cell .so-panel {
             margin-bottom: 30px
         }
-        
+
         #pl-48 .panel-grid-cell .so-panel:last-child {
             margin-bottom: 0
         }
-        
+
         #pg-48-0 {
             margin-left: -15px;
             margin-right: -15px
         }
-        
+
         #pg-48-0 .panel-grid-cell {
             padding-left: 15px;
             padding-right: 15px
         }
-        
+
         @media (max-width:780px) {
             #pg-48-0 .panel-grid-cell,
             #pg-48-1 .panel-grid-cell,
@@ -573,7 +573,7 @@
 
 
 /* Layout 141 */
-        
+
         #pg-141-0,
         #pg-141-1,
         #pg-141-3,
@@ -608,7 +608,7 @@
         #pg-141-45 {
             margin-bottom: 0px
         }
-        
+
         #pgc-141-1-0,
         #pgc-141-1-1,
         #pgc-141-8-0,
@@ -625,7 +625,7 @@
         #pgc-141-26-1 {
             width: 50%
         }
-        
+
         #pg-141-1 .panel-grid-cell,
         #pg-141-2 .panel-grid-cell,
         #pg-141-5 .panel-grid-cell,
@@ -641,7 +641,7 @@
         #pg-141-41 .panel-grid-cell {
             float: left
         }
-        
+
         #pgc-141-2-0,
         #pgc-141-2-1,
         #pgc-141-2-2,
@@ -652,11 +652,11 @@
         #pgc-141-20-3 {
             width: 25%
         }
-        
+
         #pg-141-2 {
             margin-bottom: 50px
         }
-        
+
         #pgc-141-5-0,
         #pgc-141-5-1,
         #pgc-141-5-2,
@@ -668,7 +668,7 @@
         #pgc-141-41-2 {
             width: 33.333%
         }
-        
+
         #pg-141-5,
         #pg-141-8,
         #pg-141-11,
@@ -678,17 +678,17 @@
         #pg-141-29 {
             margin-bottom: 70px
         }
-        
+
         #pg-141-20 {
             margin-bottom: 40px
         }
-        
+
         #pg-141-26,
         #pg-141-38,
         #pg-141-41 {
             margin-bottom: 60px
         }
-        
+
         #pgc-141-29-0,
         #pgc-141-29-1,
         #pgc-141-29-2,
@@ -696,20 +696,20 @@
         #pgc-141-29-4 {
             width: 20%
         }
-        
+
         #pg-141-32,
         #pg-141-43 {
             margin-bottom: 80px
         }
-        
+
         #pl-141 .panel-grid-cell .so-panel {
             margin-bottom: 30px
         }
-        
+
         #pl-141 .panel-grid-cell .so-panel:last-child {
             margin-bottom: 0
         }
-        
+
         #pg-141-1,
         #pg-141-2,
         #pg-141-5,
@@ -726,7 +726,7 @@
             margin-left: -15px;
             margin-right: -15px
         }
-        
+
         #pg-141-1 .panel-grid-cell,
         #pg-141-2 .panel-grid-cell,
         #pg-141-5 .panel-grid-cell,
@@ -743,7 +743,7 @@
             padding-left: 15px;
             padding-right: 15px
         }
-        
+
         @media (max-width:780px) {
             #pg-141-0 .panel-grid-cell,
             #pg-141-1 .panel-grid-cell,
@@ -835,38 +835,38 @@
 
 
 /* Layout 69 */
-        
+
         #pgc-69-0-0,
         #pgc-69-0-1 {
             width: 50%
         }
-        
+
         #pg-69-0 {
             margin-bottom: 0px
         }
-        
+
         #pg-69-0 .panel-grid-cell {
             float: left
         }
-        
+
         #pl-69 .panel-grid-cell .so-panel {
             margin-bottom: 30px
         }
-        
+
         #pl-69 .panel-grid-cell .so-panel:last-child {
             margin-bottom: 0
         }
-        
+
         #pg-69-0 {
             margin-left: -15px;
             margin-right: -15px
         }
-        
+
         #pg-69-0 .panel-grid-cell {
             padding-left: 15px;
             padding-right: 15px
         }
-        
+
         @media (max-width:780px) {
             #pg-69-0 .panel-grid-cell,
             #pg-69-1 .panel-grid-cell {
@@ -884,15 +884,3 @@
                 padding: 0
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
